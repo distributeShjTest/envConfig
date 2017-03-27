@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/doc/!svn/ver/15207/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/%E6%B5%8B%E8%AF%95/%E9%85%8D%E7%BD%AEenv/saas-trunk/ad-whale/ad-whale-business
+END
+adService.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/doc/!svn/ver/13961/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/%E6%B5%8B%E8%AF%95/%E9%85%8D%E7%BD%AEenv/saas-trunk/ad-whale/ad-whale-business/adService.properties
+END
+company.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/doc/!svn/ver/13961/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/%E6%B5%8B%E8%AF%95/%E9%85%8D%E7%BD%AEenv/saas-trunk/ad-whale/ad-whale-business/company.properties
+END
+jdbc.write.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/doc/!svn/ver/15207/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/%E6%B5%8B%E8%AF%95/%E9%85%8D%E7%BD%AEenv/saas-trunk/ad-whale/ad-whale-business/jdbc.write.properties
+END
+jdbc.read.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/doc/!svn/ver/15207/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/%E6%B5%8B%E8%AF%95/%E9%85%8D%E7%BD%AEenv/saas-trunk/ad-whale/ad-whale-business/jdbc.read.properties
+END
+merchant.jdbc.read.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/doc/!svn/ver/15207/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/%E6%B5%8B%E8%AF%95/%E9%85%8D%E7%BD%AEenv/saas-trunk/ad-whale/ad-whale-business/merchant.jdbc.read.properties
+END
+mail.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/doc/!svn/ver/14441/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/%E6%B5%8B%E8%AF%95/%E9%85%8D%E7%BD%AEenv/saas-trunk/ad-whale/ad-whale-business/mail.properties
+END
+area.jdbc.read.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/doc/!svn/ver/15207/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/%E6%B5%8B%E8%AF%95/%E9%85%8D%E7%BD%AEenv/saas-trunk/ad-whale/ad-whale-business/area.jdbc.read.properties
+END

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<pool id="ad-whale-business"
+initConn="1"
+minConn="1"
+maxConn="8"
+maintSleep="30000"
+socketTO="3000"
+socketConnectTO="3000"
+defaultExpiryMinutes="720"
+compressEnable="true"
+compressThreshold="4096">
+<servers>
+<server>10.140.34.34:11211</server>
+</servers>
+</pool>
+</config>
